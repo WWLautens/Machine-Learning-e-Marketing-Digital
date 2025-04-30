@@ -1,4 +1,4 @@
-# Aprendizado de máquina no marketing digital
+# Análise de Dados: Aprendizado de Máquina em Marketing Digital
 
 Notebook de data prep, feature engineering e modelos de Regressão Linear e Gradient Boosting.
 
