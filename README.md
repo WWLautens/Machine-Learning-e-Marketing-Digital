@@ -1,4 +1,5 @@
-# Aprendizado de máquina no marketing digital 
+# Aprendizado de máquina no marketing digital
+
 Notebook de data prep, feature engineering e modelos de Regressão Linear e Gradient Boosting.
 
 Nesse notebook eu passei pelas seguintes fases:
